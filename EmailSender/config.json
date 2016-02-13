@@ -1,0 +1,12 @@
+﻿{
+  "aws": {"region": "eu-west-1" },
+  "mail": {
+    "template-body": "mail-template-body",
+    "subject": "Rappel Encodage du SMS",
+    "from": "avit.sidis@mail.com",
+    "data": {
+      "bucket": "asidis-tools",
+      "key": "hecs/sms-reminder/data.json"
+    }
+  }
+}

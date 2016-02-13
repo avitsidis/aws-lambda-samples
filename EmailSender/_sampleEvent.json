@@ -1,0 +1,21 @@
+﻿{
+  "Records": [
+    {
+      "eventVersion": "2.0",
+      "eventSource": "aws:s3",
+      "awsRegion": "eu-west-1",
+      "eventTime": "2015-01-31T01:36:58.497Z",
+      "eventName": "test",
+      "userIdentity": {
+        "principalId": "AIDAJDPLRKLG7UEXAMPLE"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "127.0.0.1"
+      },
+      "responseElements": {
+        "x-amz-request-id": "C3D13FE58DE4C810",
+        "x-amz-id-2": "FMyUVURIY8\/IgAtTv8xRjskZQpcIZ9KG4V5Wp6S7S\/JRWeUWerMUE5JgHvANOjpD"
+      }
+    }
+  ]
+}
