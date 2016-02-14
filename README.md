@@ -1,2 +1,2 @@
 # aws-lambda-samples
-Some aws lambda function
+Some aws lambda functions
